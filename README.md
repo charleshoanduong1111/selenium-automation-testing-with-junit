@@ -38,7 +38,7 @@ Step 1: Installing the EGit plugin in Eclipse
 Open Eclipse IDE.
 Click on “Help” in the top menu and select “Install New Software.”
 In the “Work with” field, type 
-“http://download.eclipse.org/egit/updates”or 
+“http://download.eclipse.org/egit/updates” or 
 “https://download.eclipse.org/egit/updates-nightly/”
 and press Enter.
 Select “Eclipse Git Team Provider” and any additional plugins you’d like to install (e.g., “GitHub Mylyn Connector”).
