@@ -3,6 +3,18 @@
 
 
 https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+Creating a personal access token
+In the upper-right corner of any page, click your profile photo, then click Settings.
+Screenshot of a user's account menu on GitHub. The menu item "Settings" is outlined in dark orange.
+In the left sidebar, click  Developer settings.
+In the left sidebar, click Personal access tokens.
+Click Generate new token.
+In the "Note" field, give your token a descriptive name.
+To give your token an expiration, select Expiration, then choose a default option or click Custom to enter a date.
+Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information. For more information, see "Scopes for OAuth apps."
+Click Generate token.
+Optionally, to copy the new token to your clipboard, click copy-icon:
 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
 
 Eclipse 
