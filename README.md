@@ -1,6 +1,12 @@
 # selenium.automation.test.junit
 
-
+Tools:
+Eclipse
+Selenium
+Maven
+Java
+JDK17 
+JUnit4
 
 https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
@@ -17,9 +23,6 @@ Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon:
 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
 
-Eclipse 
-JDK17
-JUnit4
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 Eclipse | GitHub
