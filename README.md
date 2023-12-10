@@ -1,12 +1,15 @@
 # selenium.automation.test.junit
 
-https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
+
+
+https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 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
 
 Eclipse 
 JDK17
 JUnit4
 
+https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 Eclipse | GitHub
 Introduction
 Version control is an essential tool for developers working on projects, both individually and collaboratively. Git is a widely-used version control system that allows you to track changes in your code and collaborate with other developers. GitHub is a popular web-based hosting service for Git repositories that simplifies collaboration and project management.
