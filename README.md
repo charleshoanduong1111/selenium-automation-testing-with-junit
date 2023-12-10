@@ -21,10 +21,11 @@ To give your token an expiration, select Expiration, then choose a default optio
 Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information. For more information, see "Scopes for OAuth apps."
 Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon:
-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
+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
 
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
+
 Eclipse | GitHub
 Introduction
 Version control is an essential tool for developers working on projects, both individually and collaboratively. Git is a widely-used version control system that allows you to track changes in your code and collaborate with other developers. GitHub is a popular web-based hosting service for Git repositories that simplifies collaboration and project management.
@@ -36,7 +37,10 @@ A GitHub account.
 Step 1: Installing the EGit plugin in Eclipse
 Open Eclipse IDE.
 Click on “Help” in the top menu and select “Install New Software.”
-In the “Work with” field, type “http://download.eclipse.org/egit/updates" and press Enter.
+In the “Work with” field, type 
+“http://download.eclipse.org/egit/updates”or 
+“https://download.eclipse.org/egit/updates-nightly/”
+and press Enter.
 Select “Eclipse Git Team Provider” and any additional plugins you’d like to install (e.g., “GitHub Mylyn Connector”).
 Click “Next” and follow the installation prompts.
 Restart Eclipse when prompted.
