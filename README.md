@@ -2,7 +2,8 @@
 
 Tools:
 Eclipse
-Selenium
+Selenium JAR
+ChromeDriver Version 120
 Maven
 Java
 JDK17 
