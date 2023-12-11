@@ -22,7 +22,8 @@ To give your token an expiration, select Expiration, then choose a default optio
 Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information. For more information, see "Scopes for OAuth apps."
 Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon:
-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
+
+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
 
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
