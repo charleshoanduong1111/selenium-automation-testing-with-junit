@@ -21,10 +21,12 @@ In the "Note" field, give your token a descriptive name.
 To give your token an expiration, select Expiration, then choose a default option or click Custom to enter a date.
 Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information. For more information, see "Scopes for OAuth apps."
 Click Generate token.
-Optionally, to copy the new token to your clipboard, click copy-icon:
+Optionally, to copy the new token to your clipboard, click copy-icon to copy token.
 
-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
-
+Authentication:
+Example: 
+User: Use UserID instead Email
+Password: Use generated token, i.g: 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
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 
