@@ -23,12 +23,10 @@ Select the scopes you'd like to grant this token. To use your token to access re
 Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon to copy token.
 
-
 Authentication:
 Example: 
 User: Use UserID instead Email
 Password: Use generated token, i.g: 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
-
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 
