@@ -26,7 +26,7 @@ Optionally, to copy the new token to your clipboard, click copy-icon to copy tok
 Authentication:
 Example: 
 User: Use UserID instead Email
-Password: Use generated token, i.g: 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
+Password: Use generated token, i.g: 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
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 
