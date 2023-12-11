@@ -23,7 +23,7 @@ Select the scopes you'd like to grant this token. To use your token to access re
 Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon:
 
-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
+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
 
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
