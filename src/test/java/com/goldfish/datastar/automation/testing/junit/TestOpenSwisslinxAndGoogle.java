@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class SwisslinxGoogleTestWithAbstract extends AbstractChromeWebDriverTest {
+public class TestOpenSwisslinxAndGoogle extends AbstractChromeWebDriverTest {
 
 	@Test
 	public void testSwisslinxCom() throws InterruptedException {

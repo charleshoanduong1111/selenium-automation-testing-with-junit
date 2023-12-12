@@ -15,7 +15,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import io.github.bonigarcia.wdm.managers.ChromeDriverManager;
 
-public class FacebookLoginTest extends AbstractChromeWebDriverTest {
+public class TestLoginFacebook extends AbstractChromeWebDriverTest {
 
 	@Test
 	public void testFacebookLogin() throws Exception {
@@ -27,6 +27,8 @@ public class FacebookLoginTest extends AbstractChromeWebDriverTest {
 		System.out.println("Curent page: " + driver.getCurrentUrl());
 		System.out.println("Type Email: Test1111@test.com");
 
+		//TODO: If the page is Cookie, then clicking Cookie page first to avoid ElementClickInterceptedException
+		//
 		// If ask Cookie? Then ElementClickInterceptedException will occured. Otherwise is ok
 		// org.openqa.selenium.ElementClickInterceptedException: element click
 		// intercepted:

@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class SwisslinxGoogleTestWithoutAbstract {
+public class TestOpenSwisslinxAndGoogleWithoutAbstract {
 	protected WebDriver driver;
 
 	@Test
