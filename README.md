@@ -31,8 +31,10 @@ Password: Use generated token, e.g: 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.
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 
-Eclipse | GitHub
-Introduction
+## Eclipse | GitHub: How to push Eclipse Project to GitHub | Share Eclipse Project to GitHub
+Video: https://www.youtube.com/watch?v=B2N1AKIQfnY
+
+### Introduction:
 Version control is an essential tool for developers working on projects, both individually and collaboratively. Git is a widely-used version control system that allows you to track changes in your code and collaborate with other developers. GitHub is a popular web-based hosting service for Git repositories that simplifies collaboration and project management.
 In this blog post, we will cover the basics of integrating Git and GitHub into your Eclipse IDE workflow, making it easier to manage your code and collaborate with others.
 Prerequisites:
@@ -43,8 +45,11 @@ Step 1: Installing the EGit plugin in Eclipse
 Open Eclipse IDE.
 Click on “Help” in the top menu and select “Install New Software.”
 In the “Work with” field, type 
-“http://download.eclipse.org/egit/updates” or 
-“https://download.eclipse.org/egit/updates-nightly/”
+
+http://download.eclipse.org/egit/updates 
+or 
+https://download.eclipse.org/egit/updates-nightly/
+
 and press Enter.
 Select “Eclipse Git Team Provider” and any additional plugins you’d like to install (e.g., “GitHub Mylyn Connector”).
 Click “Next” and follow the installation prompts.
