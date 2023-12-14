@@ -9,9 +9,10 @@ System.setProperty("webdriver.chrome.driver", "./chromedriver-version-120/chrome
 JUnit4
 Selenium JAR
 
+### Creating a personal access token
+
 https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-Creating a personal access token
 In the upper-right corner of any page, click your profile photo, then click Settings.
 Screenshot of a user's account menu on GitHub. The menu item "Settings" is outlined in dark orange.
 In the left sidebar, click  Developer settings.
@@ -23,10 +24,10 @@ Select the scopes you'd like to grant this token. To use your token to access re
 Click Generate token.
 Optionally, to copy the new token to your clipboard, click copy-icon to copy token.
 
-Authentication:
-Example: 
-User: Use UserID instead Email
-Password: Use generated token, i.g: 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
+### Authentication:
+#### Example: 
+User: UserID.
+Password: Use generated token, e.g: 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.
 
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126
 
