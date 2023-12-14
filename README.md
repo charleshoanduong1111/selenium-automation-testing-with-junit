@@ -1,15 +1,15 @@
 # selenium.automation.test.junit
 
-Tools:
-Eclipse forJava: Eclipse IDE for Java Developers - 2023-12 (eclipse-inst-jre-win64.exe)
-Maven: C:\Program Files\maven\apache-maven-3.9.5\bin
-JDK: C:\Program Files\Java\jdk1.8.0_231_TEST\bin
-ChromeDriver: ./chromedriver-version-120/chromedriver.exe
-System.setProperty("webdriver.chrome.driver", "./chromedriver-version-120/chromedriver.exe");
-JUnit4
-Selenium JAR
+Tools used for Selenium Automation Tests:
+Eclipse for Java: Eclipse IDE for Java Developers - 2023-12 (eclipse-inst-jre-win64.exe).
+Maven: C:\Program Files\maven\apache-maven-3.9.5\bin.
+JDK: C:\Program Files\Java\jdk1.8.0_231_TEST\bin.
+ChromeDriver: ./chromedriver-version-120/chromedriver.exe.
+System.setProperty("webdriver.chrome.driver", "./chromedriver-version-120/chromedriver.exe");.
+JUnit4.
+Selenium JAR.
 
-### Creating a personal access token
+### Creating a personal access token:
 
 https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
