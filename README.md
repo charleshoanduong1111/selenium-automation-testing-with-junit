@@ -1,13 +1,20 @@
-# selenium.automation.test.junit
+# selenium-automation-testing-with-junit
+selenium-automation-testing-with-junit is a simple project to use ChromeDriver for Selenium Automation Testing
 
-Tools used for Selenium Automation Tests:
+### Tools used for Selenium Automation Tests:
+
 Eclipse for Java: Eclipse IDE for Java Developers - 2023-12 (eclipse-inst-jre-win64.exe).
+
 Maven: C:\Program Files\maven\apache-maven-3.9.5\bin.
+
 JDK: C:\Program Files\Java\jdk1.8.0_231_TEST\bin.
+
 ChromeDriver: ./chromedriver-version-120/chromedriver.exe.
+
 System.setProperty("webdriver.chrome.driver", "./chromedriver-version-120/chromedriver.exe");.
+
 JUnit4.
-Selenium JAR.
+
 
 ### Creating a personal access token:
 
